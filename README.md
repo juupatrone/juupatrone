@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## oi tudo bem? 👋
+meu nome é julia
 <!--
 **juupatrone/juupatrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
